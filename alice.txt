@@ -1,4 +1,2 @@
-Hi,
 Iam Ajay 
 file:alice.txt
-
